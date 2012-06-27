@@ -1,8 +1,8 @@
 @import 'compass';
 
 $white: #fff;
-$light-brown: #cdcabe;
-$dark-brown: #a3a094;
+$brown: #cdcabe;
+$dark-brown: darken($brown,15%);
 $green: #8dbd69;
 $orange: #fa9c38;
 
@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  @include background-image(linear-gradient($light-brown,$dark-brown));
+  @include background-image(linear-gradient($brown,$dark-brown));
   font: 16px Georgia, serif;
   line-height: 24px;
 }
