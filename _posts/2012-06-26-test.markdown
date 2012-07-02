@@ -1,8 +1,0 @@
----
-layout: blog
-title: Testers
----
-
-# Welcome to the blog!
-
-Hello!

@@ -2,8 +2,9 @@
 
 $white: #fff;
 $brown: #cdcabe;
-$dark-brown: darken($brown,15%);
+$dark-brown: darken($brown,10%);
 $green: #8dbd69;
+$dark-green: darken($green,10%);
 $orange: #fa9c38;
 
 html {
@@ -12,7 +13,9 @@ html {
 
 body {
   @include background-image(linear-gradient($brown,$dark-brown));
+  background-attachment: fixed;
   font: 16px Georgia, serif;
+  color: #222;
   line-height: 24px;
 }
 
@@ -45,12 +48,22 @@ header {
   a {
     color: $green;
     font-family: Helvetica, Helvetica Neue, sans-serif;
+    font-weight: normal;
+    &:hover {
+      text-decoration: none;
+      color: $dark-green;
+    }
   }
 }
 
 .content {
+  margin-bottom: 2em;
   > h1 {
     text-align: center;
     margin-bottom: 32px;
   }
+}
+
+footer {
+  color: #555;
 }
