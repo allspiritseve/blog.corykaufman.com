@@ -1,0 +1,27 @@
+---
+layout: blog
+title: Twitter as a platform
+---
+
+# Twitter as a platform
+
+It wasn't long ago that I was reading an article about some change
+Facebook had made that everyone was complaining about, and reflected on
+how differently I viewed Twitter.
+
+Facebook seems like the enemy, a faceless corporation that wants to use
+my data against me. Twitter, on the other hand, felt like an open
+platform, a public good from which everyone benefited.
+
+After the recent news about how they're closing down their API, and
+starting to include advertisements, it's clear that I was wrong about
+Twitter. 
+
+I wish I knew what the solution was-- we need an open Twitter that's
+built around giving everyone access to the world's information in real
+time. We need the tweet version of RSS. 
+
+In order to do that, though, we need an aggregator. Twitter is the hub
+for all our information right now, but when it becomes as toxic as
+Facebook, when we're having ads shoved down our throats just so Twitter
+can be free, it won't be open any more.
