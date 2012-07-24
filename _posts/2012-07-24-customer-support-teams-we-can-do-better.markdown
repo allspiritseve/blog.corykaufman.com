@@ -11,11 +11,11 @@ was flat out broken, with a black screen instead of a contact list.
 It was late, but I googled a bit and couldn't find a solution (granted, the update's only
 been out 2 days) so I ended up tweeting the Adium team:
 
-> @adium latest update was totally broken (contact list was a black screen). Any way to downgrade?
+@adium latest update was totally broken (contact list was a black screen). Any way to downgrade?
 
 Their response:
 
-> @allspiritseve This issue was reported before a while ago: http://forums.cocoaforge.com/viewtopic.php?f=13&t=23750#p131371
+@allspiritseve This issue was reported before a while ago: http://forums.cocoaforge.com/viewtopic.php?f=13&t=23750#p131371
 
 I think we can provide better customer support than this.
 
