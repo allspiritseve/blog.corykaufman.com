@@ -6,8 +6,8 @@ title: Mind like water
 <ul>
   {% for post in site.posts %}
     <li>  
-      {{ post.date | date: '%A, %B %e, %Y' }}
       <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.date | date: '%A, %B %e, %Y' }}
     </li>
   {% endfor %}
 </ul>

@@ -31,6 +31,12 @@ a {
   }
 }
 
+hr {
+  background-color: $dark-brown;
+  border: none;
+  height: 1px;
+}
+
 .page {
   width: 600px;
   margin: 1em auto;
