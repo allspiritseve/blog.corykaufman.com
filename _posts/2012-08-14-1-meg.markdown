@@ -1,0 +1,30 @@
+---
+layout: blog
+title: 1meg internet is all we need
+---
+
+# {{ page.title }}
+
+There's been a lot of buzz lately about Google Fiber in Kansas City, and how
+that's how internet should be.
+
+Honestly, I haven't cared about how fast my internet was since I convinced my
+parents to switch from dialup to cable. 
+
+The far, far more important thing has always been reliability. I just got back
+from a 3 month trip in Costa Rica. The internet there is anything but reliable.
+But at it's best, sitting in a reclining chair in our apartment in Santo
+Domingo, I got a 1meg connection. 
+
+And you know what? 1meg is good enough for just about anything I want to do.
+I could stream HBO Go (using a US VPN of course, since they don't allow
+international traffic), I could download linux ISOs, I could listen to
+streaming music. 
+
+I don't think a 1,000meg connection is going to be the standard any time soon.
+I would much prefer ISPs to focus on providing a reliable, everywhere 1meg
+connection that spans the country.
+
+In Costa Rica, that internet cost me $18/month. Why not the same here?
+$20/month seems perfect for basic, reliable internet. No data caps, no
+throttling (below the 1meg limit of course). Simple.

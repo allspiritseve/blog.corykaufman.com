@@ -1,0 +1,34 @@
+---
+layout: blog
+title: There's trash everywhere
+---
+
+# {{ page.title }}
+
+I started working in the Tech Brewery in Ann Arbor a little over a year ago. My
+house is less than ten minutes away, so I walk pretty much every day.
+
+The path to work goes down some steps in the woods, crosses a busy street, goes
+through a park, and then a quiet residential neighborhood. It's an extremely
+relaxing way to start my day. 
+
+I recently got back from a three month stay in Costa Rica. Costa Rica has
+a trash problem-- they aren't a big country, so there's not much room for huge
+landfills and such like we have in the U.S. 
+
+As a result, there's trash everywhere-- on the street, in the gutters, the
+sidewalks, etc. I often felt like picking it up-- but as there are rarely
+public trash cans, I just didn't have a place to put it.
+
+For some reason, now that I'm back home, I still feel compelled to pick up
+trash. I've been grabbing a bag each morning on my walk to work.
+
+Every single day, that trash bag has been full to bursting before I've even
+reached the Tech Brewery. *It is shocking how much trash I've walked by, for an
+entire year, without bothering to pick it up.*
+
+* * *
+  
+Makes me wonder, as a developer, how much bad code I see every day and do
+nothing about. I wonder how much better at my job I would be if I just
+refactored a small grocery bag's worth each day. 
