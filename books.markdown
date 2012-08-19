@@ -24,7 +24,8 @@ title: Books I'd like to read
 * Darkly Dreaming Dexter
 * A Clockwork Orange
 * Slaughterhouse Five
-* Gene Wolfe - The Knight (recommended by Brian Birchmeier)
+* Gene Wolfe - The Knight (recommended by [Brian Birchmeier](http://www.bryanbirchmeier.com/))
 * Hunter S. Thompson
 * The Power of Habit: Why We Do What We Do in Life and Business by charles Duhigg
 * Less and More: The Design Ethos of Dieter Rams by Klaus Klemp and Keiko Oeki-Polet
+* The Mater Switch by Tim Wu (recommended by [Chris Dzombak](http://twitter.com/cdzombak))
