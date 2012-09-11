@@ -28,4 +28,8 @@ title: Books I'd like to read
 * Hunter S. Thompson
 * The Power of Habit: Why We Do What We Do in Life and Business by charles Duhigg
 * Less and More: The Design Ethos of Dieter Rams by Klaus Klemp and Keiko Oeki-Polet
-* The Mater Switch by Tim Wu (recommended by [Chris Dzombak](http://twitter.com/cdzombak))
+* The Master Switch by Tim Wu (recommended by [Chris
+  Dzombak](http://twitter.com/cdzombak/status/237206727722946560))
+* How Will You Measure Your Life? by Clayton
+Christensen (recommended by [Joe
+Mihalic](http://nomoreharvarddebt.com/2012/08/31/a-heartfelt-thanks-to-my-editing-team-book-launch-post-mortem/))
