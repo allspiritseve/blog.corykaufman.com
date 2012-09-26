@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: How to mock localhost IP address in Rails
+title: How to mock localhost IP address for geocoding in Rails
 ---
 
 # {{ page.title }}
