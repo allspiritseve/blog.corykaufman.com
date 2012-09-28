@@ -1,13 +1,13 @@
 ---
-layout: blog
+layout: page
 title: Mind like water
 ---
 
-<ul>
+<ul itemscope="itemscope" itemtype="http://schema.org/Blog">
   {% for post in site.posts %}
-    <li>  
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.date | date: '%A, %B %e, %Y' }}
+    <li itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">  
+      <a href="{{ post.url }}" itemprop="url"><span itemprop="name">{{ post.title }}</span></a>
+      <span itemprop="datePublished">{{ post.date | date: '%A, %B %e, %Y' }}</span>
     </li>
   {% endfor %}
 </ul>

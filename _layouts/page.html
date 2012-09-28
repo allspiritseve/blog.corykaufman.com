@@ -6,11 +6,11 @@
     <link rel="alternate" type="application/rss+xml" title="{{ page.title }}" href="/posts.xml?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication" />
   </head>
   <body>
-    <div class="page" itemscope itemtype="http://schema.org/Blog">
-      <header>
+    <div class="page" itemscope itemtype="http://schema.org/Article">
+      <header itemscope itemtype="http://schema.org/Blog">
         <h1 itemprop="name"><a href="http://blog.corykaufman.com" title="Mind like water" itemprop="url">Mind like water</a></h1>
       </header>
-      <section class="content" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPost">
+      <section class="content">
         {{ content }}
       </section>
       <footer>
