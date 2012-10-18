@@ -1,11 +1,12 @@
 ---
 layout: blog
 title: The paradox of choice and personal projects
+description: 'Studies have shown that every small decision we make throughout the day takes a piece of our willpower.'
 ---
 
 # {{ page.title }}
 
-I read an article recently that quoted Obama as saying he only wears blue or grey suits to minimize the choices he has to make getting dressed every day.
+I read an article recently that quoted president Obama as saying he only wears blue or grey suits to minimize the choices he has to make getting dressed every day.
 
 He's actually on to something: studies have shown that every small decision we make throughout the day takes a piece of our willpower &mdash; in essence, our willpower is finite and we don't want to waste it on silly decisions.
 

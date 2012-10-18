@@ -1,3 +1,3 @@
 task :deploy do
-  system 'jekyll-s3 && git push origin master'
+  system 'jekyll && jekyll-s3 && git push origin master'
 end

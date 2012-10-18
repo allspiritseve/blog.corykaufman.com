@@ -12,7 +12,8 @@ html {
 }
 
 body {
-  @include background-image(linear-gradient($brown,$dark-brown));
+  background-color: $brown;
+  // @include background-image(linear-gradient($brown,$dark-brown));
   background-attachment: fixed;
   font: 16px Georgia, serif;
   color: #222;
@@ -41,13 +42,29 @@ hr {
   height: 1px;
 }
 
-.page {
-  width: 600px;
-  margin: 1em auto;
-  padding: 3em 4em;
-  background-color: rgba($white,.6);
-  @include border-radius(2px);
+ul {
+  list-style: none;
+  padding: 0;
+  li {
+    text-indent: -1em;
+    margin-left: 2em;
+  }
 }
+
+.page {
+  padding: 20px 40px;
+  background-color: rgba($white,.6);
+}
+
+@media all and (min-width: 738px) {
+  .page {
+    width: 600px;
+    margin: 1em auto;
+    padding: 3em 4em;
+    @include border-radius(2px);
+  }
+}
+
 
 header {
   h1 {
@@ -68,10 +85,6 @@ header {
 
 .content {
   margin-bottom: 2em;
-  > h1 {
-    text-align: center;
-    margin-bottom: 32px;
-  }
 }
 
 footer {
