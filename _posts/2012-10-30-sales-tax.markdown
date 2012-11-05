@@ -1,0 +1,12 @@
+---
+layout: blog
+title: I think we should have to pay sales tax online
+---
+
+# {{ post.title }}
+
+I'm looking to purchase a new winter jacket. I went and tried it on in a local store, and it fits really well. They price match, but everyone sells the jacket for the same price. 
+
+If I buy the jacket online, it will cost me $350 including shipping. If I buy it in store, it will cost me $371.00. I live in Michigan, and Michigan has a 6% sales tax.
+
+Normally, I wouldn't hesitate to buy online. I buy products from Amazon all the time that I've looked at in local stores. In this case though, the local store isn't a chain, it's a single store in Ann Arbor owned by local residents. I want to support them and I want to support my local economy.
