@@ -22,3 +22,4 @@ def save(branch, label = 'Save')
   yield if block_given?
   system "git push origin '#{branch}'"
 end
+

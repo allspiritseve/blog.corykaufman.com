@@ -19,7 +19,7 @@ description: 'Mind like water is a blog about the internet, procrastination and 
     
     <li itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">  
       <a href="{{ post.url }}" itemprop="url"><span itemprop="name">{{ post.title }}</span></a>
-      <span itemprop="datePublished">{{ post.date | date: '%A, %B&nbsp;%e,&nbsp;%Y' }}</span>
+      <span itemprop="datePublished">{{ post.date | date: '%A,&nbsp;%B&nbsp;%e,&nbsp;%Y' }}</span>
     </li>
   {% endfor %}
 </ul>
