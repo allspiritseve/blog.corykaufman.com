@@ -1,3 +1,6 @@
 task :deploy do
-  system 'jekyll && jekyll-s3 && git push origin master'
+  system 'git add --all'
+  system "git commit -m 'Deploy #{Time.now}'"
+  system 'jekyll && jekyll-s3'
+  system 'git push origin master'
 end
