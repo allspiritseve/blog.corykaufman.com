@@ -1,4 +1,5 @@
 task :deploy do
+  raise 'Must be on master to deploy' if current_branch != 'master'
   save current_branch, 'Deploy' do
     system 'jekyll && jekyll-s3'
   end
