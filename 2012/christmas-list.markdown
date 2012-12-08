@@ -15,6 +15,7 @@ title: Christmas List
 * [Belt](http://www.thevegancollection.com/belts/the-julian-reversible-belt) (I'm a 34" waist)
 * Jeans (34 x 34)
 * Wool socks
+* [Spotify Premium membership](https://www.spotify.com/us/get-spotify/e-card/)
 <!--
 [Keyboard cover for laptop](http://www.amazon.com/Uppercase-Ultra-Keyboard-Macbook-Inches/dp/B007FL6100/ref=sr_1_3?s=electronics&ie=UTF8&qid=1353808189&sr=1-3&keywords=macbook+keyboard+skin)
 [Hard case for laptop](http://www.amazon.com/15-inch-Aluminum-Unibody-15-4-inch-diagonal/dp/B003O5VBVK/ref=sr_1_7?s=electronics&ie=UTF8&qid=1353808057&sr=1-7&keywords=A1286+hard+case)
