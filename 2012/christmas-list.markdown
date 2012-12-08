@@ -11,10 +11,7 @@ title: Christmas List
 * [Kindle cover](http://www.amazon.com/gp/product/B005HSG45A/ref=kin_ddp_pop_SazMarwareCover_popT) in brown
 * Strategy board game (7 Wonders, Dragon Valley, etc.)
 * Tigers hat (with curved bill)
-* Fun t-shirt
-* [Belt](http://www.thevegancollection.com/belts/the-julian-reversible-belt) (I'm a 34" waist)
-* Jeans (34 x 34)
-* Wool socks
+* Fun t-shirt, [belt](http://www.thevegancollection.com/belts/the-julian-reversible-belt) (I'm a 34" waist), jeans (34 x 34), wool socks
 * [Spotify Premium membership](https://www.spotify.com/us/get-spotify/e-card/)
 <!--
 [Keyboard cover for laptop](http://www.amazon.com/Uppercase-Ultra-Keyboard-Macbook-Inches/dp/B007FL6100/ref=sr_1_3?s=electronics&ie=UTF8&qid=1353808189&sr=1-3&keywords=macbook+keyboard+skin)
