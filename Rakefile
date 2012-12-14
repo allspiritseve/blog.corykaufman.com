@@ -17,7 +17,7 @@ def current_branch
 end
 
 def save(branch, label = 'Save')
-  system 'git add --all'
+  system 'git add --update'
   system "git commit -m '#{label} #{Time.now}'"
   yield if block_given?
   system "git push origin '#{branch}'"
