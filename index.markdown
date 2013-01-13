@@ -5,11 +5,11 @@ description: 'Mind like water is a blog about coding, time & attention, and cook
 ---
 
 <h1>Posts</h1>
-<ul itemscope="itemscope" itemtype="http://schema.org/Blog">
+<ul class="posts" itemscope="itemscope" itemtype="http://schema.org/Blog">
   {% for post in site.posts %}
     <li itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">  
       <a href="{{ post.url }}" itemprop="url"><span itemprop="name">{{ post.title }}</span></a>
-      <span itemprop="datePublished">{{ post.date | date: '%A, %B&nbsp;%e,&nbsp;%Y' }}</span>
+      <span class="published" itemprop="datePublished">{{ post.date | date: '%A, %B&nbsp;%e,&nbsp;%Y' }}</span>
     </li>
   {% endfor %}
 </ul>
