@@ -1,4 +1,4 @@
-task :deploy do
+task :release do
   save current_branch, 'Deploy' do
     system 'jekyll && jekyll-s3'
   end
