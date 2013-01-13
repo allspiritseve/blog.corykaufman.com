@@ -1,0 +1,16 @@
+---
+layout: blog
+title: What talk sounds the most interesting?
+---
+
+# {{ page.title }}
+
+1. Replacing Heroku with Linode, Ubuntu and Babushka
+
+2. No more foobar: why you should use real sample data in development
+
+3. How to sync a database with a REST API
+
+4. How to create and a publish a gem with Bundler
+
+5. How to write a javascript widget
