@@ -32,5 +32,6 @@ title: Books I'd like to read
     <li itemprop="itemListElement">Less and More: The Design Ethos of Dieter Rams by Klaus Klemp and Keiko Oeki-Polet</li>
     <li itemprop="itemListElement">The Master Switch by Tim Wu (recommended by <a href="http://twitter.com/cdzombak/status/237206727722946560">Chris Dzombak</a></li>
     <li itemprop="itemListElement">How Will You Measure Your Life? by Clayton Christensen (recommended by <a href="http://nomoreharvarddebt.com/2012/08/31/a-heartfelt-thanks-to-my-editing-team-book-launch-post-mortem/">Joe Mihalic</a></li>
+    <li itmeprop="itemListElement">Boyd: The Fighter Pilot Who Changed the Art of War (recommended by <a href="https://twitter.com/bigeasy">Alan Gutierrez</a></li>
   </ul>
 </div>
