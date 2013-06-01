@@ -1,8 +1,9 @@
 source 'http://rubygems.org'
 
-gem 'jekyll'
-gem 'slim'
-gem 'rake'
 gem 'RedCloth'
 gem 'compass'
+gem 'jekyll'
 gem 'jekyll-s3'
+gem 'rake'
+gem 'rb-fsevent'
+gem 'slim'
