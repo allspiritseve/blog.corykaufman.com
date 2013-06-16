@@ -11,3 +11,5 @@ title: 2013 Birthday List
 * [Joy of Cooking](http://product.half.ebay.com/_W0QQprZ53480074)
 * [Noice Cancelling Headphones](http://www.amazon.com/Sony-MDR-V6-Monitor-Series-Headphones/dp/B00001WRSJ/ref=cm_cr_pr_product_top)
 * Strategy board game (7 Wonders, Dragon Valley, etc.)
+* Pizza baking stone
+* Metal mixing bowls
