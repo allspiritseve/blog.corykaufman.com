@@ -1,1 +1,4 @@
 exclude: Gemfile, Gemfile.lock, config.rb, Rakefile
+markdown: redcarpet
+redcarpet:
+  extensions: ["strikethrough"]
