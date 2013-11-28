@@ -11,8 +11,8 @@ title: 2013 Christmas List
 * [Noise cancelling headphones](http://www.amazon.com/Sony-MDR7506-Professional-Diaphragm-Headphone/dp/B000AJIF4E/ref=pd_cp_e_0)
 * Sorry (board game)
 * Skull cap hat (to wear under bike helmet)
-* <del>[Bike fenders](http://www.amazon.com/Planet-Bike-7056-5-Cascadia-Touring/dp/B0041XA1D8/ref=sr_1_4?s=cycling&ie=UTF8&qid=1385314712&sr=1-4) (so I can ride my bike in winter)</del>
-* <del>[Cargo rack for bike](http://www.amazon.com/Topeak-63107030-Explorer-Bike-Rack/dp/B000FIE3WI/ref=sr_1_3?s=cycling&ie=UTF8&qid=1384975644&sr=1-3) (to hold panniers)</del>
+* ---[Bike fenders](http://www.amazon.com/Planet-Bike-7056-5-Cascadia-Touring/dp/B0041XA1D8/ref=sr_1_4?s=cycling&ie=UTF8&qid=1385314712&sr=1-4) (so I can ride my bike in winter)---
+* ---[Cargo rack for bike](http://www.amazon.com/Topeak-63107030-Explorer-Bike-Rack/dp/B000FIE3WI/ref=sr_1_3?s=cycling&ie=UTF8&qid=1384975644&sr=1-3) (to hold panniers)---
 * Bike panniers / rack bag (some ideas: [1](http://www.amazon.com/Nashbar-Waterproof-Rear-Panniers-BLACK/dp/B004UM7AVG/ref=sr_1_7?s=cycling&ie=UTF8&qid=1385315735&sr=1-7), [2](http://www.rei.com/product/833113/ortlieb-bike-shopper-ql2-single-pannier), [3](http://www.rei.com/product/825288/novara-gotham-panniers), [4](http://www.rei.com/product/811081/timbuk2-tandem-panniers-medium))
 * [Philips GoLite](http://www.amazon.com/exec/obidos/ASIN/B001I45XL8/ref=nosim/6688506-rg1112-0020-20?s=merchant&m=ATVPDKIKX0DER)
 * Any outdoor clothing
