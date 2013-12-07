@@ -1,6 +1,6 @@
 task :release do
   save current_branch, 'Deploy' do
-    system 'jekyll && jekyll-s3'
+    system 'jekyll build && jekyll-s3'
   end
 end
 
